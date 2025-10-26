@@ -15,19 +15,30 @@ in malaysia)
 Process - Fuel Cost = (distance / fuel efficiency) * fuel price
 Output - Fuel cost
 3. Widget is using inside the app
+   
   1.Text
+   
   2.Textfield
+  
   3.Dropdown button
+  
   4.Elevated button
+  
   5.Row and expanded row
+  
   6.Column
+  
   7.Container
+  
   8.appbar
+  
   9.bottomNavigationBar
+  
   10.sizedbox
-4. Basic Validation approach
+  
+5. Basic Validation approach
 Rounding - make the price round into 2 decimals number
-5. Authorship Note with Signature
+6. Authorship Note with Signature
 
 _________________________________
 
