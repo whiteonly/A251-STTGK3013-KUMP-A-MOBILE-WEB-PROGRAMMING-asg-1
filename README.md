@@ -15,16 +15,16 @@ in malaysia)
 Process - Fuel Cost = (distance / fuel efficiency) * fuel price
 Output - Fuel cost
 3. Widget is using inside the app
-1.Text
-2.Textfield
-3.Dropdown button
-4.Elevated button
-5.Row and expanded row
-6.Column
-7.Container
-8.appbar
-9.bottomNavigationBar
-10.sizedbox
+  1.Text
+  2.Textfield
+  3.Dropdown button
+  4.Elevated button
+  5.Row and expanded row
+  6.Column
+  7.Container
+  8.appbar
+  9.bottomNavigationBar
+  10.sizedbox
 4. Basic Validation approach
 Rounding - make the price round into 2 decimals number
 5. Authorship Note with Signature
@@ -39,7 +39,9 @@ as ChatGPT or GitHub Copilot. I relied solely on lecture notes, class tutorials,
 official Flutter documentation. I understand that my work may be scrutinized, and if it
 is found that I did not personally develop the code, marks may be deducted, or the
 submission may be disqualified.”
+
 6. i. 2–3 screenshots (Splash, Home before, Home after calculation).
+
 SplashScreen
 
 <img width="796" height="817" alt="image" src="https://github.com/user-attachments/assets/347b9f3e-8b56-4ace-be77-578c7f7b6215" />
